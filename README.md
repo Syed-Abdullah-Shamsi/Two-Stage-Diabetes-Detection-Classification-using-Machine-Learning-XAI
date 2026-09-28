@@ -104,4 +104,4 @@ Supervisor: Dr Adven
 
 ## License
 
-MIT License (or choose your own).
+MIT License .
