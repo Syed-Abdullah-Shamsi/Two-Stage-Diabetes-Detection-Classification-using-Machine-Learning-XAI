@@ -5,7 +5,6 @@ A final year project that predicts diabetes from clinical and symptom data in **
 - **Stage 1 – Detection:** Non-Diabetic vs Diabetic
 - **Stage 2 – Classification:** if diabetic, Diabetic (general) vs Gestational
 
-> ⚠️ **Disclaimer:** This project is for academic and research purposes only. It is not a medical device and must not be used as a substitute for professional diagnosis.
 
 ---
 
@@ -100,8 +99,8 @@ Python, pandas, NumPy, scikit-learn, SciPy, statsmodels, LIME, Matplotlib, Seabo
 
 ## Author
 
-**<Your Name>** – Final Year Project, <Your University / Department>, <Year>
-Supervisor: <Supervisor Name>
+**Syed Abdullah Shamsi ,Haseeb Raza** – Final Year Project, University of Sialkot,Department of Computing & IT, 2025-2026
+Supervisor: Dr Adven
 
 ## License
 
